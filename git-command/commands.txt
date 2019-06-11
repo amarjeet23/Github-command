@@ -1,0 +1,15 @@
+STEPS to add your file to github:
+
+Step1: git init
+
+Step2: git add (fil ename) or -A
+
+step3: git commit -m "your message here"
+
+step4: git remote add origin repoName(enter your url of github repository)
+
+step5: git push origin master
+
+step6: git clone repoName
+
+step7: git pull origin master
